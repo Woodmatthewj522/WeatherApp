@@ -10,7 +10,7 @@ namespace WeatherApp
     public partial class MattsWeatherApp : Form
     {
         // OpenWeatherMap API key
-        private readonly string apiKey = "6927a1742ef9e64755583799244f1387";
+        private readonly string apiKey = "YOUR_API_KEY_HERE";
 
         public MattsWeatherApp()
         {
