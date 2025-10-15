@@ -1,6 +1,6 @@
 # 🌤️ MattsWeatherApp
 
-A sleek Windows Forms weather dashboard built with C# and .NET, powered by the OpenWeatherMap API. It fetches real-time weather and 5-day forecasts for Hanover, PA (zip 17331), with future support for city-based search.
+A sleek Windows Forms weather dashboard built with C# and .NET, powered by the OpenWeatherMap API. It fetches real-time weather and 5-day forecasts, with city search support.
 
 ---
 
