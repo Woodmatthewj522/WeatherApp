@@ -19,7 +19,7 @@ A sleek Windows Forms weather dashboard built with C# and .NET, powered by the O
 - **Language**: C#
 - **Framework**: .NET Windows Forms
 - **API**: [OpenWeatherMap](https://openweathermap.org/api)
-- **UI Components**: DataGridView, Labels, Buttons
+- **UI Components**: DataGridView, Labels, Buttons etc.
 
 ---
 
